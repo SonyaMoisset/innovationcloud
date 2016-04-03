@@ -17,7 +17,7 @@ body {
 /* Header */
 
 .header {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg');
+  background-image: url('bg.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -109,7 +109,7 @@ body {
 
 .jumbotron {
   color: #fff;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg');
+  background-image: url('jumbotron_bg.jpg');
   background-position: center center;
   background-size: cover;
   height: 600px;
